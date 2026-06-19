@@ -1,16 +1,21 @@
 # Hi, I'm Precious 👋
 
-**Petroleum Engineer | MSc Data Science Student | Lagos, Nigeria**
+**Petroleum Engineer | MSc Data Science Student | Building Data-Driven Solutions for Energy & Business Problems | Lagos, Nigeria**
 
-I work in upstream oil and gas (A&D, production optimization, LOS analysis), and I'm completing an MSc in Data Science — building tools that bridge both worlds.
+I am a Petroleum Engineer at Proline Energy Resources Inc. and a Master's student in Data Science at the Nigerian University of Technology and Management (NUTM).
+
+My work sits at the intersection of engineering, data, and decision-making. I am particularly interested in applying data science, machine learning, and analytics to solve real-world problems in the energy industry and beyond.
 
 ---
 
-## 🔧 What I Build
-
-- **ML models for petroleum engineering** — well clustering, acquisition screening, production decline analysis
-- **Big Data pipelines** — PySpark, Hadoop, health risk stratification
-- **Interactive dashboards** — Streamlit, Power BI
+## 🔧 Areas of Interest
+Machine Learning
+Data Analytics
+Big Data Technologies
+Energy Systems
+Production Optimization
+Business Intelligence
+Decision Support Systems
 
 ---
 
@@ -38,7 +43,7 @@ PySpark ML pipeline for healthcare risk stratification on Hadoop/HDFS. Deployed 
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Precious%20Faseyosan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/precious-faseyosan)
 
