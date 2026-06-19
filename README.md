@@ -1,8 +1,8 @@
 # Hi, I'm Precious 👋
 
-**Petroleum Engineer | MSc Data Science Candidate | Lagos, Nigeria**
+**Petroleum Engineer | MSc Data Science Student | Lagos, Nigeria**
 
-I work in upstream oil and gas (A&D, non-op working interest) and I'm completing an MSc in Data Science — building tools that bridge both worlds.
+I work in upstream oil and gas (A&D, production optimization, LOS analysis), and I'm completing an MSc in Data Science — building tools that bridge both worlds.
 
 ---
 
