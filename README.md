@@ -9,13 +9,14 @@ My work sits at the intersection of engineering, data, and decision-making. I am
 ---
 
 ## 🔧 Areas of Interest
-Machine Learning
-Data Analytics
-Big Data Technologies
-Energy Systems
-Production Optimization
-Business Intelligence
-Decision Support Systems
+- Machine Learning
+- Data Visualisation and storytelling
+- Data Analytics
+- Big Data Technologies
+- Energy Systems
+- Production Optimization
+- Business Intelligence
+- Decision Support Systems
 
 ---
 
